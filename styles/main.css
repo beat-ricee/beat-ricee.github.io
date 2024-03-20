@@ -7,3 +7,15 @@ p{
     font-family: fangsong;
     color: rgb(159, 159, 233)
 }
+.serious {
+    border: 2px darkorchid solid;
+}
+
+.silly {
+    font-family: cursive;
+}
+
+.dunking-videos {
+    border: 1px orangered solid;
+    color: burlywood;
+}
